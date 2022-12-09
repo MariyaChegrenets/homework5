@@ -26,5 +26,3 @@ int SumNegativeIndex(int[] array)
     Console.WriteLine();
     return sum;
 }
-
-// Диапазон любой, ввод зависит от пользователя. (размер, значения)
